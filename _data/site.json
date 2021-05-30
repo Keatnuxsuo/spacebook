@@ -1,8 +1,8 @@
 {
-  "name": "Spacebook",
-  "subtitle": "Create a modern notebook to document or explain almost anything.",
-  "description": "Create a modern notebook to document or explain almost anything with spacebook.app",
-  "footer": "Made with ❤ in Minneapolis",
+  "name": "Jia Keatnuxsuo",
+  "subtitle": "Come learn all things tech with me",
+  "description": "Learning all things tech",
+  "footer": "Driven by Growth Mindset🌱",
   "url": "https://spacebook.app",
   "githubUrl": "https://github.com/<username>/<repository>",
   "githubBranch": "main",
@@ -17,5 +17,6 @@
   "enableNetlifyCMS": false,
   "enableComments": false,
   "enableEncryption": false,
-  "enablePageNavigation": true
+  "enablePageNavigation": true,
+  "navigationStyle": "horizontal"
 }
